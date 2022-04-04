@@ -1,44 +1,44 @@
 [
     {
-      "_id": "6249fce71d9ba01e03311ace",
-      "price": "$3,106.47",
-      "picture": "http://placehold.it/32x32",
+      "id": "6249fce71d9ba01e03311ace",
+      "rating": "★★★★☆",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskrrbq0CujUyM6qCS4rrD2-bnbk46HKzPpw&usqp=CAU/",
       "name": "Gould Harrell",
-      "review": "Laboris fugiat dolor sit veniam cillum velit excepteur id mollit est occaecat. Laboris velit qui fugiat id ex irure ad ea eiusmod tempor. Laboris pariatur commodo eiusmod reprehenderit mollit incididunt id duis adipisicing do ex adipisicing sit. Cillum cupidatat adipisicing laborum dolor exercitation anim adipisicing cupidatat non. Enim cillum cillum consectetur quis mollit. Exercitation elit cillum eiusmod consequat aute nostrud esse occaecat non laboris velit elit.\r\n"
+      "review": "One of the best laptop ever i used. it  has strong processor and betary backup is more  than 5 hours"
     },
     {
-      "_id": "6249fce72f5eda3bbbfce502",
-      "price": "$1,293.19",
-      "picture": "http://placehold.it/32x32",
+      "id": "6249fce72f5eda3bbbfce502",
+      "rating": "★★★★★",
+      "picture": "https://cdn-images.kyruus.com/providermatch/umms/photos/200/abdulla-hamza-1437599529.jpg",
       "name": "Delores Castaneda",
-      "review": "Nostrud Lorem ad culpa officia reprehenderit quis ut occaecat laborum amet qui. Ea labore veniam reprehenderit consequat dolor sint ex. Aute occaecat eu excepteur non do ea duis eu. Incididunt dolore do anim eiusmod pariatur sit aliquip in consectetur dolore.\r\n"
+      "review": "A mid-life refresh adds new Intel processors and new Nvidia discrete graphics and an OLED display to an already fine laptop"
     },
     {
-      "_id": "6249fce783fde665c7c36d7b",
-      "price": "$1,416.37",
-      "picture": "http://placehold.it/32x32",
+      "id": "6249fce783fde665c7c36d7b",
+      "rating": "★★★★☆",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoIDF0LpN10H9UfmkuYH4R80fwXKLfrRp-xFspSbHMMC4eXqAx50VD9skcdMkfwDaiUkE&usqp=CAU",
       "name": "Kramer Green",
-      "review": "Irure adipisicing voluptate amet id excepteur qui et esse non pariatur cupidatat ad et. Qui consequat elit mollit et dolor. Exercitation esse aliquip ipsum aliqua dolore qui non nulla duis. Ut proident pariatur nisi labore laborum minim non ad pariatur consectetur quis qui. Cupidatat et laboris ad adipisicing eu est ut consequat ad Lorem veniam ipsum mollit. Sint ea non id reprehenderit est elit nostrud consectetur do. Ipsum nulla excepteur elit nisi consequat magna.\r\n"
+      "review": "The latest edition of the XPS 15 looks brilliant, it's got great processing power and an excellent keyboard. If you can afford one, a USB-A port is about the only thing missing "
     },
     {
-      "_id": "6249fce769b865093ca7e396",
-      "price": "$1,621.69",
-      "picture": "http://placehold.it/32x32",
+      "id": "6249fce769b865093ca7e396",
+      "rating": "★★★★",
+      "picture": "https://doximity-res.cloudinary.com/image/upload/t_public_profile_photo_320x320/i40z4b1sk8jep81agfs8.jpg",
       "name": "Deanne Hubbard",
-      "review": "Ipsum eu ut ex sunt minim. Nulla dolore qui commodo aliquip eiusmod ipsum id cupidatat in incididunt voluptate. Culpa veniam eiusmod esse dolor ex do consequat minim ad. Laborum laboris et officia eu. Est exercitation nisi non tempor voluptate do occaecat consequat voluptate consequat eu. Excepteur reprehenderit id mollit veniam duis est. Incididunt nostrud nulla sit anim aute aliqua.\r\n"
+      "review": "It's the ultimate 15-inch laptop for those willing to trade battery life for a mesmerizing 3.5K OLED display"
     },
     {
-      "_id": "6249fce7cfef9619ae18ff4e",
-      "price": "$2,629.02",
-      "picture": "http://placehold.it/32x32",
+      "id": "6249fce7cfef9619ae18ff4e",
+      "rating": "★★★☆☆",
+      "picture": "https://kyruus-app-static.kyruus.com/providermatch/umms/photos/200/john-george-1639432834.jpg",
       "name": "Lucia Shaw",
-      "review": "Ea veniam ea duis et quis occaecat. Lorem enim sint ullamco quis labore anim mollit aute sit cupidatat officia nulla. Cillum minim id culpa aliqua adipisicing Lorem pariatur fugiat voluptate. Ad Lorem amet sit do.\r\n"
+      "review": "Dell XPS 15 2020 offers excellent performance and one of the most immersive, colorful displays of any 15-inch laptop."
     },
     {
-      "_id": "6249fce7b7ac18e74886eb6c",
-      "price": "$3,370.12",
-      "picture": "http://placehold.it/32x32",
+      "id": "6249fce7b7ac18e74886eb6c",
+      "rating": "★★★★★",
+      "picture": "https://www.bdfutbol.com/i/j/94007.jpg",
       "name": "Abby Whitehead",
-      "review": "Aliqua magna labore eiusmod irure anim fugiat eu. Aute occaecat consequat veniam voluptate eiusmod do. Magna elit labore cillum ut excepteur officia est enim.\r\n"
+      "review": "The Dell XPS 15 is easily the best 15-inch laptop on the market, and in a lot of ways it's the best laptop period."
     }
 ]
