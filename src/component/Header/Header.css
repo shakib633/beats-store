@@ -1,0 +1,7 @@
+.link a{
+    margin-right: 14px;
+    
+}
+.link a:hover{
+    color: rgb(178, 38, 38);
+}
